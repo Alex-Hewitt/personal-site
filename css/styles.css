@@ -53,12 +53,12 @@ hr {
 
 .top-cloud {
   position: absolute;
-  right: 20%;
+  right: 15%;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 20%;
+  left: 15%;
   top: 50%;
 }
 
